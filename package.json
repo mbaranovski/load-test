@@ -1,0 +1,18 @@
+{
+  "name": "load-test",
+  "version": "1.0.0",
+  "description": "Simple CLI Load Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "go",
+    "golang",
+    "load",
+    "test",
+    "loadtest"
+  ],
+  "author": "Michal Baranowski",
+  "license": "MIT"
+}
